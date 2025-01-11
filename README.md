@@ -1,6 +1,6 @@
 > [!IMPORTANT]
 > # MVP lançado🚀
-> repo: https://github.com/FlipSoftware/moovolt-csms
+> Novo repositório: https://github.com/FlipSoftware/moovolt-csms
 
 <div align='center'>
 
